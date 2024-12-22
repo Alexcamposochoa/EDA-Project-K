@@ -3,6 +3,9 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
+import os
+os.system('pip install plotly')
+
 
 # Cargar datos
 @st.cache_data
