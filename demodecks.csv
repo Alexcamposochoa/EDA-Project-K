@@ -1,0 +1,67 @@
+Deck,Nombre,Subtítulo,Tipo,Etiqueta1,Etiqueta2,Color1,Color2,Cantidad,Coste Maná,Coste Reciclaje,Color Reciclaje,Might,Keyword1,Keyword2,Rareza
+Jinx,Super Mega Death Rocket,Jinx,Spell,,,Rojo,Morado,2,3,1,Bicolor,0,Focused,,Definitivo
+Jinx,Jinx,Rebel,Champion,Zaun,,Morado,,1,5,1,Morado,5,,,Definitivo
+Jinx,Scrapyard Champion,,Unit,Bandle City,Mech,Rojo,,1,5,1,Rojo,5,Legion,,Epico
+Jinx,Undercover Agent,,Unit,,,Morado,,1,5,1,Morado,5,Deathknell,,Común
+Jinx,Gust,,Spell,,,Morado,,2,1,0,,0,Reaction,,Común
+Jinx,Possession,,Spell,,,Morado,,2,8,3,Morado,0,,,Definitivo
+Jinx,Rebuke,,Spell,,,Morado,,2,2,2,Morado,0,,,Común
+Jinx,Vi,Destructive,Champion,Piltover,,Rojo,,2,2,1,Rojo,3,Ganking,,Legendario
+Jinx,Brazen Buccaneer,,Unit,Bilgewater,Pirate,Rojo,,3,6,0,,5,,,Común
+Jinx,Chemtech Enforcer ,,Unit,Zaun,,Rojo,,3,2,0,,2,Assault 2,,Común
+Jinx,Flame Chompers,,Unit,Zaun,,Rojo,,3,3,0,,3,,,Común
+Jinx,Jinx,Demolitionist,Champion,Zaun,,Rojo,,3,3,1,Rojo,4,Accelerate,Assault 2,Legendario
+Jinx,Legion Rearguard,,Unit,Noxus,Trifarian,Rojo,,3,2,0,,2,Accelerate,,Común
+Jinx,Noxus Hopeful,,Unit,Noxus,Trifarian,Rojo,,3,4,0,,3,Legion,,Común
+Jinx,Seal of Discord,,Gear,,,Morado,,3,0,1,Morado,0,,,Definitivo
+Jinx,Seal of Fury,,Gear,,,Rojo,,3,0,1,Rojo,0,,,Definitivo
+Jinx,Traveling Merchant,,Unit,Bilgewater,,Morado,,3,2,0,,2,,,Legendario
+Viktor,Gran Strategem,,Spell,,,Amarillo,,1,6,3,Amarillo,0,,,Legendario
+Viktor,Faithful Manufactor,,Unit,Piltover,,Amarillo,,2,3,0,,2,,,Común
+Viktor,Hernessed Dragon,,Unit,Demacia,Dragon,Amarillo,,2,8,2,Amarillo,6,,,Legendario
+Viktor,Machine Evangel,,Unit,Piltover,,Amarillo,,2,5,1,Amarillo,4,Deathknell,,Legendario
+Viktor,Seal of Unity,,Gear,,,Amarillo,,2,0,1,Amarillo,0,,,Definitivo
+Viktor,Unchecked Power,,Spell,,,Azul,,2,7,2,Azul,0,Focused,Epic,Definitivo
+Viktor,Wraith Of Echoes,,Unit,Shadow Isles,Spirit,Azul,,2,6,1,Azul,5,,,Legendario
+Viktor,Cruel Patron,,Unit,Noxus,,Amarillo,,3,4,0,,6,,,Común
+Viktor,Cull,,Spell,,,Amarillo,,3,2,1,Amarillo,0,Focused,,Común
+Viktor,Hidden Blade,,Spell,,,Amarillo,,3,2,1,Amarillo,0,Hidden,Reaction,Común
+Viktor,Siphon Power,Viktor,Spell,,,Amarillo,Azul,3,2,1,Bicolor,0,Reaction,,Definitivo
+Viktor,Soaring Scout,,Unit,Bird,Freljord,Amarillo,,3,2,0,,1,Deathknell,,Común
+Viktor,Stupefy,,Spell,,,Azul,,3,1,0,,0,Reaction,,Común
+Viktor,Vanguard Captain,,Unit,Demacia,Elite,Amarillo,,3,3,1,Amarillo,3,Legion,,Común
+Viktor,Viktor,Leader,Champion,Zaun,,Amarillo,,3,4,1,Amarillo,4,,,Definitivo
+Viktor,Watchful Sentry,,Unit,Freljord,,Azul,,3,2,0,,1,Deathknell,,Común
+Volibear,Blazing Scorcher,,Unit,Dragon ,Noxus,Rojo,,3,5,0,,5,Accelerate,,Común
+Volibear,Stormbringer,Volibear,Spell,,,Rojo,Naranja,2,6,1,Bicolor,0,Focused,Epic,Definitivo
+Volibear,Miss Fortune,Captain,Champion,Bilgewater,Pirate,Naranja,,2,5,1,Naranja,5,Ganking,Accelerate,Definitivo
+Volibear,Legion Rearguard,,Unit,Noxus,Trifarian,Rojo,,3,2,0,,2,Accelerate,,Común
+Volibear,Disintegrate,,Spell,,,Rojo,,3,4,0,,0,,,Común
+Volibear,Magma Wurm,,Unit,Freljord,,Rojo,,1,8,1,Rojo,8,,,Común
+Volibear,Volibear,Imposing,Champion,Freljord,,Naranja,,2,12,2,Naranja,10,Tank,Shield 3,Legendario
+Volibear,Volibear,Furious,Champion,,,Rojo,,3,10,2,Rojo,9,Deflect 2,,Definitivo
+Volibear,Tryndamere,Barbarian,Champion,Freljord,,Rojo,,2,7,2,Rojo,8,,,Definitivo
+Volibear,Mobilize,,Spell,,,Naranja,,2,2,0,,0,,,Común
+Volibear,Catalyst of Aeons,,Spell,,,Naranja,,3,4,0,,0,,,Epico
+Volibear,Carniverous Snapvine,,Unit,Shadow Isles,,Naranja,,3,5,2,Naranja,6,,,Legendario
+Volibear,Deadbloom Predator,,Unit,Shadow Isles,,Naranja,,3,8,2,Naranja,8,Deflect,,Legendario
+Volibear,Challenge,,Spell,,,Naranja,,3,2,1,Naranja,0,,,Común
+Volibear,Stormclaw Ursine,,Unit,Freljord,,Naranja,,3,7,0,,6,Tank,,Común
+Volibear,Kadregrin the Infernal,,Unit,Demacia,Dragon,Rojo,,2,9,2,Rojo,9,,,Definitivo
+Yasuo,Wind Wall,,Spell,,,Verde,,1,3,2,Verde,0,Reaction,,Epica
+Yasuo,Cementary Attendat,,Unit,Dog,Shadow Isles,Morado,,2,3,1,Morado,3,Dog,,Común
+Yasuo,Clockwork Keeper,,Unit,Shurima,,Verde,,2,2,0,,2,,,Común
+Yasuo,Defy,,Spell,,,Verde,,2,1,1,Verde,0,Reaction,,Común
+Yasuo,En Garde,,Spell,,,Verde,,2,1,0,,0,Reaction,,Común
+Yasuo,Maddened Marauder,,Unit,Bilgewater,Pirate,Morado,,2,5,0,,4,Tank,,Legendario
+Yasuo,Meditation,,Spell,,,Verde,,2,2,0,,0,Reaction,,Común
+Yasuo,Miss Fortune,Bucaneer,Champion,Bilgewater,Pirate,Morado,,2,4,1,Morado,4,,,Legendario
+Yasuo,Rebuke,,Spell,,,Morado,,2,2,2,Morado,0,,,Común
+Yasuo,Sea of Calm,,Gear,,,Verde,,2,0,1,Verde,0,,,Definitiva
+Yasuo,Discipline,,Spell,,,Verde,,3,2,0,,0,Reaction,,Epica
+Yasuo,Kayn,Unleashed,Champion,Ionia,,Morado,,3,6,1,Morado,6,Ganking,,Legendario
+Yasuo,Last Breath,Yasuo,Spell,,,Verde,Morado,3,3,1,Bicolor,0,,,Definitiva
+Yasuo,Stelthy Pursuer,,Unit,Shurima,,Morado,,3,4,1,Morado,4,,,Común
+Yasuo,Traveling Merchant,,Unit,Bilgewater,,Morado,,3,2,0,,2,,,Legendario
+Yasuo,Yasuo,Remorseful,Champion,Ionia,,Verde,,3,6,2,Verde,6,,,Legendario
+Yasuo,Wielder of Water,,Unit,Ionia,,Verde,,3,3,0,,2,,,Común
